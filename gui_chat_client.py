@@ -6,7 +6,7 @@ from tkinter import messagebox
 class ChatClient:
     def __init__(self, master):
         self.master = master
-        self.master.title("Chat Application")
+        self.master.title("ChatU")
         
         self.chat_history = None  # Placeholder for chat history widget
         self.client_socket = None
