@@ -110,6 +110,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Inspired by the simplicity of Python's socket programming and Tkinter's GUI capabilities.
 
---- 
 
-Feel free to modify this **README.md** to include your personal GitHub link or any additional information!
